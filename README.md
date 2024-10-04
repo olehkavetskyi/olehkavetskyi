@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## I'm a Full Stack Developer
+## Hi there, I'm a Full Stack Developer 👋
 
 # 💫 About Me:
 🔭 I’m currently working on project for The University of Oil and Gas<br>🌱 I’m currently learning Node.js, Next, .NET<br>👯 I’m looking to collaborate on pet projects and any other interesting ideas<br>🤔 I’m looking for help with finding traineeship<br>💬 Ask me about [here](https://github.com/olehkavetskyi/olehkavetskyi/issues)<br>📫 How to reach me: olehkavetskyi@gmail.com
