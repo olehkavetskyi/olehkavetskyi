@@ -6,9 +6,6 @@
 🔭 I’m currently working on project for The University of Oil and Gas<br>🌱 I’m currently learning Node.js, Next, .NET<br>👯 I’m looking to collaborate on pet projects and any other interesting ideas<br>🤔 I’m looking for help with finding traineeship<br>💬 Ask me about [here](https://github.com/olehkavetskyi/olehkavetskyi/issues)<br>📫 How to reach me: olehkavetskyi@gmail.com
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oleh-kavetskyi) 
-
 # 💻 Tech Stack:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
